@@ -58,5 +58,5 @@ Note that there is no explicit way to set model parameter via command line. Henc
   ./bac.py
   ```
    
- ## Ackknoledgement
+ ## Acknowledgment
 This project is intended for obtaining credit in MATH 372 at University of Alberta. We thank Dr.Hassan Safouhi* for providing the initiative of the project as well as the methods we need to address the problems.
