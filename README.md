@@ -35,7 +35,7 @@ Note that there is no explicit way to set model parameter via command line. Henc
     <img src="doc/Figure_1.png" width="800" height="400">
   </p>
 
-- To replicate **Example 1 Discrete Model**
+- To replicate **Example 2 continuous Model**
   ```sh
   ./bac.py continuous
   ```
